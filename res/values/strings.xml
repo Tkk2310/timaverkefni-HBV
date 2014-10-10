@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Timaverkefni</string>
-    <string name="tommi"> Tómas Karl Kjartansson</string>
+    <string name="tommi"> Tómas Karl Kjartansson og Björn Sigurðsson</string>
     <string name="action_settings">Settings</string>
 
 </resources>
